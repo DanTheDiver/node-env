@@ -1,4 +1,4 @@
 applications:
-- name: node-env-dev
+- name: node-env-dan
   description : Simple demo that prints the server's environment variables.
   mem: 256M
